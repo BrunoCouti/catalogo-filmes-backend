@@ -46,8 +46,7 @@ Siga os passos abaixo para configurar e rodar a API localmente:
         python -m venv venv
         # No Windows:
         venv\Scripts\activate
-        # No Linux/macOS:
-        source venv/bin/activate
+       
         ```
 
 3.  **Instale as dependências:**
